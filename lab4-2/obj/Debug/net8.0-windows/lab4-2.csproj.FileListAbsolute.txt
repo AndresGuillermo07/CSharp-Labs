@@ -1,0 +1,17 @@
+C:\Programming\C#\labs\lab4-2\bin\Debug\net8.0-windows\lab4-2.exe
+C:\Programming\C#\labs\lab4-2\bin\Debug\net8.0-windows\lab4-2.deps.json
+C:\Programming\C#\labs\lab4-2\bin\Debug\net8.0-windows\lab4-2.runtimeconfig.json
+C:\Programming\C#\labs\lab4-2\bin\Debug\net8.0-windows\lab4-2.dll
+C:\Programming\C#\labs\lab4-2\bin\Debug\net8.0-windows\lab4-2.pdb
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\Lab4.Form1.resources
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\lab4-2.csproj.GenerateResource.cache
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\lab4-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\lab4-2.AssemblyInfoInputs.cache
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\lab4-2.AssemblyInfo.cs
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\lab4-2.csproj.CoreCompileInputs.cache
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\lab4-2.sourcelink.json
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\lab4-2.dll
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\refint\lab4-2.dll
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\lab4-2.pdb
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\lab4-2.genruntimeconfig.cache
+C:\Programming\C#\labs\lab4-2\obj\Debug\net8.0-windows\ref\lab4-2.dll
