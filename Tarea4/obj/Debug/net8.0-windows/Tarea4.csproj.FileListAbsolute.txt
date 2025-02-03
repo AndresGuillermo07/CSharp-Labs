@@ -1,0 +1,17 @@
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\Tarea4.Form1.resources
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\Tarea4.csproj.GenerateResource.cache
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\Tarea4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\Tarea4.AssemblyInfoInputs.cache
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\Tarea4.AssemblyInfo.cs
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\Tarea4.csproj.CoreCompileInputs.cache
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\Tarea4.sourcelink.json
+C:\Programming\C#\labs\Tarea4\bin\Debug\net8.0-windows\Tarea4.exe
+C:\Programming\C#\labs\Tarea4\bin\Debug\net8.0-windows\Tarea4.deps.json
+C:\Programming\C#\labs\Tarea4\bin\Debug\net8.0-windows\Tarea4.runtimeconfig.json
+C:\Programming\C#\labs\Tarea4\bin\Debug\net8.0-windows\Tarea4.dll
+C:\Programming\C#\labs\Tarea4\bin\Debug\net8.0-windows\Tarea4.pdb
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\Tarea4.dll
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\refint\Tarea4.dll
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\Tarea4.pdb
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\Tarea4.genruntimeconfig.cache
+C:\Programming\C#\labs\Tarea4\obj\Debug\net8.0-windows\ref\Tarea4.dll
