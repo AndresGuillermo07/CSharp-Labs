@@ -1,0 +1,15 @@
+C:\Programming\C#\labs\Lab6\obj\Debug\net8.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\labs\Lab6\obj\Debug\net8.0\Lab6.AssemblyInfoInputs.cache
+C:\Programming\C#\labs\Lab6\obj\Debug\net8.0\Lab6.AssemblyInfo.cs
+C:\Programming\C#\labs\Lab6\obj\Debug\net8.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Programming\C#\labs\Lab6\obj\Debug\net8.0\Lab6.sourcelink.json
+C:\Programming\C#\labs\Lab6\bin\Debug\net8.0\Lab6.exe
+C:\Programming\C#\labs\Lab6\bin\Debug\net8.0\Lab6.deps.json
+C:\Programming\C#\labs\Lab6\bin\Debug\net8.0\Lab6.runtimeconfig.json
+C:\Programming\C#\labs\Lab6\bin\Debug\net8.0\Lab6.dll
+C:\Programming\C#\labs\Lab6\bin\Debug\net8.0\Lab6.pdb
+C:\Programming\C#\labs\Lab6\obj\Debug\net8.0\Lab6.dll
+C:\Programming\C#\labs\Lab6\obj\Debug\net8.0\refint\Lab6.dll
+C:\Programming\C#\labs\Lab6\obj\Debug\net8.0\Lab6.pdb
+C:\Programming\C#\labs\Lab6\obj\Debug\net8.0\Lab6.genruntimeconfig.cache
+C:\Programming\C#\labs\Lab6\obj\Debug\net8.0\ref\Lab6.dll
