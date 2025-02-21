@@ -1,0 +1,17 @@
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\lab7.Form1.resources
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\lab7.csproj.GenerateResource.cache
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\lab7.AssemblyInfoInputs.cache
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\lab7.AssemblyInfo.cs
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\lab7.csproj.CoreCompileInputs.cache
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\lab7.sourcelink.json
+C:\Programming\C#\labs\lab7\bin\Debug\net8.0-windows\lab7.exe
+C:\Programming\C#\labs\lab7\bin\Debug\net8.0-windows\lab7.deps.json
+C:\Programming\C#\labs\lab7\bin\Debug\net8.0-windows\lab7.runtimeconfig.json
+C:\Programming\C#\labs\lab7\bin\Debug\net8.0-windows\lab7.dll
+C:\Programming\C#\labs\lab7\bin\Debug\net8.0-windows\lab7.pdb
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\lab7.dll
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\refint\lab7.dll
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\lab7.pdb
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\lab7.genruntimeconfig.cache
+C:\Programming\C#\labs\lab7\obj\Debug\net8.0-windows\ref\lab7.dll
